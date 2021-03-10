@@ -1,5 +1,9 @@
 # Solidity
 
+# Motivation for Profit Splitting
+
+Profit splitting is used to evenly distrubte funds using pre-authorized addresses to which these funds will automatically be deposited into their crypto wallets without having to manually calculate sn smount for each person.
+
 # Creating Smart Contract
 
 1. Create a new contract and name is AssociateProfitSplitter.sol
